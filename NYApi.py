@@ -72,7 +72,7 @@ class NYTimesSource(object):
 
 if __name__ == "__main__":
     config = {
-        "api_key": "",
+        "api_key": "LotDrZbIFtbqF7I2mvIxPHaD4Z5GRhMV",
         "query": "Silicon Valley",
     }
     source = NYTimesSource()
